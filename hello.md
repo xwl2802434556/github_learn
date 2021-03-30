@@ -1,4 +1,6 @@
 # hello,world!
-- git add filename
-- git commit -m ""
-- git push origin master
+- git clone www		将仓库克隆到本地
+- 将文件复制到仓库
+- git add filename	将文件加入到本地仓库	
+- git commit -m ""	
+- git push origin master将本地仓库push到服务器
